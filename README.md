@@ -39,7 +39,7 @@ This is a simple demo for getting started with building chrome extensions with R
 ### In-Depth actions
 
 So what if you want to implement a complex extension with many components and styles? 
-Well this is possible but with the cost of it having breaking during run-time. This is solved by encapsulating each component inside a react-frame so that the **CSS** and **JS** are encapsulated to each component.
+Well this is possible but with the cost of it breaking during run-time. This is solved by encapsulating each component inside a react-frame so that the **CSS** and **JS** are encapsulated to each component.
 
 - [React-Frame ~ npm](https://www.npmjs.com/package/react-frame-component)
 - [React-Frame ~ github](https://github.com/ryanseddon/react-frame-component)
